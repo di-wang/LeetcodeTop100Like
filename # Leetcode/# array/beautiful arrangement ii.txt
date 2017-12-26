@@ -1,0 +1,6 @@
+//integer range from 1 to n;
+//abs diff has exactly k distinct values
+
+
+// either insert them at last at even position at odd position
+// 1234 between 6789
